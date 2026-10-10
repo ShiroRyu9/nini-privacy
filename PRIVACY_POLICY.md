@@ -68,7 +68,7 @@ We do not sell data, and we do not share it with advertisers. The bot does not r
 
 ## 7. Security
 
-NiNi runs on an access-restricted machine controlled by the operator. Bot credentials are stored separately from code and are never shared. Each task can access only explicitly selected channels, with a cap of 500 messages per task. The bot can post only in allowlisted channels, and only after staff approval. Results are visible only to authorized staff. If a breach affects your data, we will investigate promptly, take steps to limit the harm, and notify Discord and affected users as required by applicable law and Discord's policies.
+NiNi runs on an access-restricted machine controlled by the operator. Bot credentials are stored separately from code and are never shared. Each task can access only explicitly selected channels, with a cap of 500 messages per task. The bot can post only in allowlisted channels, and only after staff approval. Results are visible only to authorized staff. If a breach affects your data, we will investigate promptly, take steps to limit the harm, and notify Discord and affected users as required by applicable law and Discord's policies. Discord-derived records kept on the operator Mac are protected at rest by macOS FileVault full-disk encryption.
 
 ## 8. Your rights and how to request deletion
 
